@@ -21,6 +21,5 @@ public class TestTreno {
         assertEquals("N", resultado);
         System.out.println("Test Equilibrio 'N' - Papai Noel, o trenó em algum momento não esteve equilibrado.");
     }
-
 }
 
